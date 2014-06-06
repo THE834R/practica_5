@@ -49,7 +49,7 @@ namespace PRACTICA_5
 			 System.Windows.Forms.MessageBox.Show("Las respuestas correctas fueron "+ Cont); 
 		}
 		
-		
+		// fin de
 		
 		
 	}

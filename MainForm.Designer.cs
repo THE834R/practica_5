@@ -262,3 +262,5 @@ namespace PRACTICA_5
 		private System.Windows.Forms.Label label1;
 	}
 }
+
+//otro fin
